@@ -1,8 +1,8 @@
-import Cards from "./components/Cards"
+import About from "./components/About"
 function App() {
   return (
     <div>
-      <Cards/>
+      <About/>
     </div>
   )
 }
