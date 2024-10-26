@@ -14,7 +14,7 @@ export default function Inputform() {
   }
   return (
     <div className="max-w-lg h-[600px] shadow-lg shadow-zinc-300 rounded-md ml-20 px-10">
-      <h1 className="text-center text-3xl font-medium">Get In Touch</h1>
+      <h1 className="text-center text-3xl font-medium pt-5">Get In Touch</h1>
       <div className="max-w-md h-full">
         <div className="flex items-center justify-center">
           <form className="flex gap-3 mt-8 pl-3">
