@@ -17,7 +17,7 @@ export default function Inputform() {
       <h1 className="text-center text-3xl font-medium">Get In Touch</h1>
       <div className="max-w-md h-full">
         <div className="flex items-center justify-center">
-          <form className="flex gap-3 mt-8">
+          <form className="flex gap-3 mt-8 pl-3">
             <input
               type="text"
               placeholder="Your Name"
