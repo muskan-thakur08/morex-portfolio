@@ -8,9 +8,12 @@ export default {
     extend: {
       fontFamily:{
         "rubik":["Rubik",'sans-serif'],
+        "inter":["Inter",'sans-serif'],
+        },
+      colors: {
+         "primaryOrange": "#EE5F38",
         },
     },
   },
   plugins: [],
 }
-
