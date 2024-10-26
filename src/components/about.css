@@ -1,3 +1,9 @@
 .text{
     text-shadow: 3px 3px 0 #ee5f38, -1px -1px 0 #ee5f38, 1px -1px 0 #ee5f38, -1px 1px 0 #ee5f38, 1px 1px 0 #ee5f38;
 }
+.img{
+    background-image: url('https://themihub.com/html/morex-bootstrap/morex/assets/img/banner/bg-shape1.png');
+    background-size: cover;
+    background-position:center ;
+    background-repeat:auto;
+}

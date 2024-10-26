@@ -1,7 +1,8 @@
 import "./about.css";
 export default function About() {
+    
     return (
-        <div>
+        <div className="img">
             <div className="max-w-screen-xl h-screen mx-auto font-rubik px-10 mb-10">
                 <div className="flex justify-between">
                     <div className="relative">

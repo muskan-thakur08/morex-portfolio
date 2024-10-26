@@ -15,7 +15,7 @@ export default function Formcard() {
     <div className="flex flex-col gap-3">
       {data.map((elem, idx) => {
         return (
-          <div className="w-[300px] h-[180px] rounded-md shadow-lg">
+          <div key={idx} className="w-[300px] h-[180px] rounded-md shadow-lg">
             <h1 className="text-center pt-7 font-semibold">
              {elem.heading}
             </h1>
